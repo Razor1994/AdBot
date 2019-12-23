@@ -1,0 +1,133 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{moodmeter}
+annalect.
+\newblock Superbowl 2016, moodmeter, 2016.
+
+\bibitem{Bosch}
+Nigel Bosch, Sidney D'Mello, Ryan Baker, Jaclyn Ocumpaugh, Valerie Shute,
+  Matthew Ventura, Lubin Wang, and Weinan Zhao.
+\newblock Automatic detection of learning-centered affective states in the
+  wild.
+\newblock {\em International Conference on Intelligent User Interfaces,
+  Proceedings IUI}, 2015:379--388, 03 2015.
+
+\bibitem{Chen2014FacialER}
+Junkai Chen, Zenghai Chen, Zheru Chi, and Hong Fu.
+\newblock Facial expression recognition based on facial components detection
+  and hog features.
+\newblock 2014.
+
+\bibitem{GDAS}
+Jasmine Enberg.
+\newblock Digital ad spending 2019, 2019.
+
+\bibitem{MultimodalEngagement}
+Joseph Grafsgaard, Joseph Wiggins, Alexandria Vail, Kristy Boyer, Eric Wiebe,
+  and James Lester.
+\newblock The additive value of multimodal features for predicting engagement,
+  frustration, and learning during tutoring.
+\newblock pages 42--49, 11 2014.
+
+\bibitem{GDSW}
+A. Guttmann.
+\newblock Digital advertising spending worldwide 2018-2023, 2019.
+
+\bibitem{IB-CNN}
+Shizhong Han, Zibo Meng, Ahmed~Shehab Khan, and Yan Tong.
+\newblock Incremental boosting convolutional neural network for facial action
+  unit recognition.
+\newblock 07 2017.
+
+\bibitem{FER2013}
+Kaggle.
+\newblock Challenges in representation learning: Facial expression recognition
+  challenge, 2013.
+
+\bibitem{Kapoor}
+Ashish Kapoor, Winslow Burleson, and Rosalind Picard.
+\newblock Automatic prediction of frustration.
+\newblock {\em International Journal of Human-Computer Studies}, 65:724--736,
+  08 2007.
+
+\bibitem{Khorrami}
+Pooya Khorrami, Tom Paine, and Thomas Huang.
+\newblock Do deep neural networks learn facial action units when doing
+  expression recognition?
+\newblock pages 19--27, 12 2015.
+
+\bibitem{Gaborwavelets}
+Gwen Littlewort, Mark Frank, Claudia Lainscsek, Ian Fasel, and Javier Movellan.
+\newblock Recognizing facial expression: Machine learning and application to
+  spontaneous behavior.
+\newblock {\em 2012 IEEE Conference on Computer Vision and Pattern
+  Recognition}, 2:568--573, 06 2005.
+
+\bibitem{BDBN}
+Ping Liu, Shizhong Han, Zibo Meng, and Yan Tong.
+\newblock Facial expression recognition via a boosted deep belief network.
+\newblock {\em Proceedings of the IEEE Computer Society Conference on Computer
+  Vision and Pattern Recognition}, pages 1805--1812, 09 2014.
+
+\bibitem{ImageEmoClassification}
+Jana Machajdik and Allan Hanbury.
+\newblock Affective image classification using features inspired by psychology
+  and art theory.
+\newblock pages 83--92, 10 2010.
+
+\bibitem{ImageEmoDataset}
+Jana Machajdik and Allan Hanbury.
+\newblock Affective image classification using features inspired by psychology
+  and art theory, dataset, 2010.
+
+\bibitem{Mollahosseini}
+Ali Mollahosseini, David Chan, and Mohammad Mahoor.
+\newblock Going deeper in facial expression recognition using deep neural
+  networks.
+\newblock pages 1--10, 03 2016.
+
+\bibitem{Nezami2018AutomaticRO}
+Omid~Mohamad Nezami, Mark Dras, Len Hamey, Deborah Richards, Stephen Wan, and
+  C{\'e}cile Paris.
+\newblock Automatic recognition of student engagement using deep learning and
+  facial expression.
+\newblock 2018.
+
+\bibitem{DBLP}
+Omid~Mohamad Nezami, Len Hamey, Deborah Richards, and Mark Dras.
+\newblock Deep learning for domain adaption: Engagement recognition.
+\newblock {\em CoRR}, abs/1808.02324, 2018.
+
+\bibitem{IAPS}
+B.~Cuthbert P.~Lang, M.~Bradley.
+\newblock International affective picture system (iaps): Affective ratings of
+  pictures and instruction manual.
+\newblock 2008.
+
+\bibitem{Simonyan2014VeryDC}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em CoRR}, abs/1409.1556, 2014.
+
+\bibitem{admeter}
+USA today.
+\newblock Usa today admeter results 2016, 2016.
+
+\bibitem{HaarCascade}
+Paul Viola and Michael Jones.
+\newblock Rapid object detection using a boosted cascade of simple features.
+\newblock volume~1, pages I--511, 02 2001.
+
+\bibitem{HaarFeature}
+Jacob Whitehill and Christian Omlin.
+\newblock Haar features for facs au recognition.
+\newblock pages 97--101, 01 2006.
+
+\bibitem{6786307}
+J. {Whitehill}, Z. {Serpell}, Y. {Lin}, A. {Foster}, and J.~R. {Movellan}.
+\newblock The faces of engagement: Automatic recognition of student
+  engagementfrom facial expressions.
+\newblock {\em IEEE Transactions on Affective Computing}, 5(1):86--98, Jan
+  2014.
+
+\end{thebibliography}
