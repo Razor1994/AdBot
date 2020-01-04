@@ -11,4 +11,6 @@ python Final/main.py
 ```
 ![Workflow](Images/workflow.png)
 
-![Example of Gaze Detection](Images/)
+![Gaze](Images/Gaze.png)
+
+![Poster](Images/Poster.png)
