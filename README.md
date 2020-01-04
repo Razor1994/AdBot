@@ -5,4 +5,10 @@ The agent shows ads based on viewer's facial emotion, gaze angle for viewer enga
 2. Fast CNN for Facial Emotion Recognition
 3. VCG-based CNN for Image sentiment Dectection
 
-[Workflow](Images/workflow.png)
+The trained weights are saved for each model. Use the following command to run the bot with the pre-trained weights. 
+```Python
+python Final/main.py
+```
+![Workflow](Images/workflow.png)
+
+![Example of Gaze Detection](Images/)
